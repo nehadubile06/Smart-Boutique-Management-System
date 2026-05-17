@@ -28,6 +28,4 @@ Smart Boutique is a modern fashion e-commerce web application built using React 
 - components/
 - pages/
 
-## 👩‍💻 Author
 
-Neha Dubile
